@@ -8,3 +8,8 @@ deals with the following
   reoccuring billing
   canceling the order
   any question email me@hardenedwp.com
+  
+  
+authorize-net-process-credit-card.pl
+
+Processing cred card for authorize.net subscriptiion basic send XML
